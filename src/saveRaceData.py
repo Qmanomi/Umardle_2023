@@ -602,7 +602,7 @@ class SaveRaceDictFromOumaIcon(SaveRaceDict):
         },
         # 休止重賞
         "g3-kabutoyama-kinen": {
-            "g3_kabutoyama-_kinen": {
+            "g3_kabutoyama_kinen": {
                 "name": "カブトヤマ記念",
                 "type": "turf",
                 "grade": 3,
